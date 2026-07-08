@@ -42,26 +42,27 @@ Window:InputText({Label="string"})
 Window:SliderFloat({Label = "float", Minimum = 0.0, Maximum = 1.0})
 ```
 
-<img src="https://github.com/user-attachments/assets/9181571f-39c3-42bc-8677-3a433c92e6e3" width="400px">
+<img 
+src="https://github.com/user-attachments/assets/8e92a7e9-a1f8-4e89-8087-a37fa67b91a0">
 
 ## Gallery
 <table>
 	<tr>
 		<td width="50%">
-			<img src="https://github.com/user-attachments/assets/a2f7c6bd-17fa-460a-b6d4-c033720cce3a">
+			<img src="https://github.com/user-attachments/assets/63474257-2ff6-4733-a193-d9b62530ad94">
 		</td>
   		<td width="50%">
-			<img src="https://github.com/user-attachments/assets/08cff202-d6b9-4b26-b54d-454a93566202">
+			<img src="https://github.com/user-attachments/assets/37db5a36-8356-4419-895c-ee526db275b0">
 		</td>
 	</tr>
 	<tr>
 		<td>
 			Advanced customization example
-			<img src="https://github.com/user-attachments/assets/c2e9be5d-819b-4620-9a0f-b99f42e21886">
+			<img src="https://github.com/user-attachments/assets/992a8422-c976-41bd-a087-d3af59cc5d60">
 		</td>
 		<td>
 			Demo window  
-			<img src="https://github.com/user-attachments/assets/f1324da5-81c2-41f1-bc51-73b381592c97">
+			<img src="https://github.com/user-attachments/assets/529b628f-ed3b-4630-af88-53c9090acdca">
 		</td>
 	</tr>
 </table>
